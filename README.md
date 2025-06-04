@@ -1,6 +1,6 @@
 # ZTE OLT PNP: Automate C300/C320/C600 ONU for GPON
 
-**ZTE OLT PNP Configuration Generator** simplifies ONU registration and configuration for ZTE C300, C320, and C600 OLTs. This tool automates GPON network setup, saving time and reducing errors for broadband technicians. [Try it now](https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/)!
+**ZTE OLT PNP Configuration Generator** simplifies ONU registration and configuration for ZTE C300, C320, and C600 OLTs. This tool automates GPON network setup, saving time and reducing errors for broadband technicians. [Try it now](https://www.miaolink.cn/index.php/2025/06/04/zte-c300-c600-olt-pnp/)!
 
 ## Project Description / 项目简介
 
@@ -38,7 +38,7 @@
 - **安全性 / Security**: User authentication, password management, IP tracking.
 - **多语言 / Multilingual**: English and Chinese interfaces.
 
-*View the interface at [ZTE OLT PNP Tool](https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/).*
+*View the interface at [ZTE OLT PNP Tool](https://www.miaolink.cn/index.php/2025/06/04/zte-c300-c600-olt-pnp/).*
 
 ## Benefits / 优势
 
@@ -49,7 +49,7 @@
 
 ## Get Started / 如何开始
 
-1. **访问平台 / Access Platform**: Visit [ZTE OLT PNP Tool](https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/).  
+1. **访问平台 / Access Platform**: Visit [ZTE OLT PNP Tool](https://www.miaolink.cn/index.php/2025/06/04/zte-c300-c600-olt-pnp/).  
 2. **设置参数 / Set Parameters**: Input slots, ports, and ONU counts.  
 3. **生成脚本 / Generate Script**: Select output mode and click “Generate.”  
 4. **执行配置 / Execute**: Copy scripts to your OLT interface.  
@@ -66,7 +66,7 @@ Check out [v1.0.0 Release](https://github.com/miaolink/ZTE_OLT_PNP/releases/tag/
 ## Exclusive Deals / 独家优惠
 
 ### English
-**ZTE OLT PNP Configuration Generator** offers exclusive deals via [Dealsbe](https://dealsbe.com/zte-olt-pnp). Unlock a 30-day free trial or 20% off annual subscriptions for ZTE C300/C320/C600 automation.
+**ZTE OLT PNP Configuration Generator** offers exclusive deals via . Unlock a 30-day free trial for ZTE C300/C320/C600 automation.
 
 #### Fresh Recommendations
 - 30-day free trial for **ZTE OLT PNP**.
@@ -75,7 +75,7 @@ Check out [v1.0.0 Release](https://github.com/miaolink/ZTE_OLT_PNP/releases/tag/
 
 
 ### 中文
-**中兴 OLT PNP 配置脚本生成器** 通过 [Dealsbe](https://dealsbe.com/zte-olt-pnp) 提供独家优惠。解锁30天免费试用或年订阅20%折扣，自动化中兴 C300/C320/C600 配置。
+**中兴 OLT PNP 配置脚本生成器**  提供独家优惠。解锁30天免费试用，自动化中兴 C300/C320/C600 配置。
 
 #### 最新推荐
 - **中兴 OLT PNP** 30天免费试用。
