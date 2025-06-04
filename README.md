@@ -35,7 +35,7 @@
 
 This tool is ideal for broadband operation technicians looking to simplify ZTE OLT configuration workflows. **Note**: The source code is not publicly available, but you can contact us for access or deployment details.
 link:
-https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/
+[https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/](https://www.miaolink.cn/index.php/2025/06/04/zte-c300-c600-olt-pnp/)
 ---
 
 ### 中文
