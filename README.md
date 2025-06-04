@@ -38,7 +38,6 @@
 - **安全性 / Security**: User authentication, password management, IP tracking.
 - **多语言 / Multilingual**: English and Chinese interfaces.
 
-![ZTE OLT PNP Interface](https://via.placeholder.com/800x400?text=ZTE+OLT+PNP+Tool+Interface)  
 *View the interface at [ZTE OLT PNP Tool](https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/).*
 
 ## Benefits / 优势
