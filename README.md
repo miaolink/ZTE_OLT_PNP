@@ -71,5 +71,5 @@ https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/
 这款工具非常适合希望简化中兴 OLT 配置流程的宽带运营技术员。**注意**：源码暂不公开，如需访问或部署详情，请联系我们。
 
 参考链接:
-https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/
+https://www.miaolink.cn/index.php/2025/06/04/c300-c600-olt-pnp/
 ---
