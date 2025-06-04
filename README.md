@@ -6,6 +6,9 @@
 
 **ZTE OLT PNP Configuration Generator** is a powerful tool designed specifically for broadband operation technicians to streamline the configuration process of ZTE OLT devices. This tool automates the generation of configuration scripts, significantly reducing manual effort and improving efficiency in managing optical network units (ONUs). Whether you're handling single-port setups or large-scale deployments, this tool provides a user-friendly interface and robust features to meet your needs.
 
+<img src="https://github.com/miaolink/ZTE_OLT_PNP/blob/main/6.png" alt="登录页" width="800" height="600" title="登录页">
+
+
 #### Key Features
 - **Automated Script Generation**: Generate complete configuration scripts with a single click, eliminating the need for manual command input.
 - **Batch Port Configuration**: Supports batch configuration for multiple slots and ports, ideal for large-scale network deployments.  
@@ -19,6 +22,9 @@
 - **Output Options**: Choose between full configuration, batch full configuration, ONU-only, or business-only scripts.
 - **User Security**: Features user authentication, password modification, and IP location tracking for secure operation.
 - **Multilingual Interface**: Supports both Chinese and English for global usability.
+
+<img src="https://github.com/miaolink/ZTE_OLT_PNP/blob/main/7.png" alt="登录页" width="800" height="600" title="登录页">
+
 
 #### Benefits
 - **Efficiency**: Saves time by automating repetitive configuration tasks.
@@ -34,7 +40,9 @@ https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/
 ### 中文
 
 **中兴 OLT PNP 配置脚本生成器** 是一款专为宽带运营技术员设计的强大工具，旨在简化中兴 OLT 设备的配置过程。该工具能够自动生成配置脚本，大幅减少手动操作，提升光网络单元（ONU）管理的效率。无论是单端口配置还是大规模部署，该工具都能通过友好的界面和强大的功能满足您的需求。
-([图片链接 "登录页"](https://github.com/miaolink/ZTE_OLT_PNP/blob/main/image1.png))
+
+<img src="https://github.com/miaolink/ZTE_OLT_PNP/blob/main/image-2.png" alt="登录页" width="800" height="600" title="登录页">
+
 #### 核心功能
 - **自动脚本生成**：一键生成完整的配置脚本，无需手动输入复杂命令。
 - **批量端口配置**：支持多个槽位和端口的批量配置，适合大规模网络部署。  
@@ -48,6 +56,9 @@ https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/
 - **输出选项**：支持完整配置、批量板卡完整配置、仅 ONU 配置或仅业务配置脚本。
 - **用户安全性**：提供用户认证、密码修改和 IP 归属地追踪，确保操作安全。
 - **多语言界面**：支持中英文界面，满足全球用户需求。
+
+<img src="https://github.com/miaolink/ZTE_OLT_PNP/blob/main/5.png" alt="登录页" width="800" height="600" title="登录页">
+
 
 #### 优势
 - **高效**：通过自动化脚本生成，节省大量配置时间。
