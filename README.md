@@ -10,6 +10,7 @@
 
 
 #### Key Features
+- **Applicable ZTE OLT range**: ZTE-C300, C320, C600
 - **Automated Script Generation**: Generate complete configuration scripts with a single click, eliminating the need for manual command input.
 - **Batch Port Configuration**: Supports batch configuration for multiple slots and ports, ideal for large-scale network deployments.  
   *Example*: Configure slots 1 and 2 with ports 1-2 and 1-3 respectively in one go.
@@ -44,6 +45,7 @@ https://www.miaolink.cn/index.php/2025/06/03/zte_pnp/
 <img src="https://github.com/miaolink/ZTE_OLT_PNP/blob/main/image-2.png" alt="登录页" width="800" height="600" title="登录页">
 
 #### 核心功能
+- **适用中兴OLT的范围**：ZTE-C300 C320 C600
 - **自动脚本生成**：一键生成完整的配置脚本，无需手动输入复杂命令。
 - **批量端口配置**：支持多个槽位和端口的批量配置，适合大规模网络部署。  
   *示例*：一次性为槽位 1 的端口 1-2 和槽位 2 的端口 1-3 生成配置。
