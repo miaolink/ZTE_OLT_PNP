@@ -20,7 +20,6 @@ Scalability: Handles both small and large-scale deployments with batch processin
 Ease of Use: Intuitive interface designed for technicians, no advanced scripting knowledge required.
 This tool is ideal for broadband operation technicians looking to simplify ZTE OLT configuration workflows. Note: The source code is not publicly available, but you can contact us for access or deployment details.
 
-中文版说明
 中兴 OLT PNP 配置脚本生成器 是一款专为宽带运营技术员设计的强大工具，旨在简化中兴 OLT 设备的配置过程。该工具能够自动生成配置脚本，大幅减少手动操作，提升光网络单元（ONU）管理的效率。无论是单端口配置还是大规模部署，该工具都能通过友好的界面和强大的功能满足您的需求。
 
 核心功能
