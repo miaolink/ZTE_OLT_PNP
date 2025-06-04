@@ -52,7 +52,7 @@
 3. **生成脚本 / Generate Script**: Select output mode and click “Generate.”  
 4. **执行配置 / Execute**: Copy scripts to your OLT interface.  
 
-**支持 / Support**: Contact [allinpol@outlook.com](mailto:allinpol@outlook.com) or join [GitHub Discussions](https://github.com/miaolink/ZTE_OLT_PNP/discussions).
+**支持 / Support**: Contact [allinpol@outlook.com](mailto:allinpol@outlook.com) or join [GitHub Discussions](https://github.com/miaolink/ZTE_OLT_PNP/).
 
 ## Community and Source Code / 社区与源码
 
@@ -68,7 +68,6 @@ Explore the [ZTE OLT PNP GitHub repository](https://github.com/miaolink/ZTE_OLT_
 - 20% discount on annual subscriptions for large-scale GPON deployments.
 - Custom VLAN or bandwidth solutions tailored to your needs.
 
-[Post a Deal](https://dealsbe.com/post-deal) to share offers or request custom discounts!
 
 ### 中文
 **中兴 OLT PNP 配置脚本生成器** 通过 [Dealsbe](https://dealsbe.com/zte-olt-pnp) 为开发者和初创公司提供独家软件优惠。解锁特别定价，自动化中兴 C300、C320、C600 OLT 配置，简化宽带技术员的GPON网络管理。
@@ -78,7 +77,6 @@ Explore the [ZTE OLT PNP GitHub repository](https://github.com/miaolink/ZTE_OLT_
 - 大规模GPON部署年订阅享20%折扣。
 - 定制VLAN或带宽解决方案，满足您的需求。
 
-[提交优惠](https://dealsbe.com/post-deal) 以分享优惠或请求定制折扣！
 
 ## Keywords / 关键词
 ZTE OLT PNP, ZTE C300 ONU Registration, ZTE C600 PNP Setup, ZTE C320 Configuration, Automated ONU Registration, GPON Configuration Tool
