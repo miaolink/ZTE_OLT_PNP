@@ -4,7 +4,7 @@
 
 ### English
 
-**ZTE OLT PNP Configuration Generator** is a powerful tool designed specifically for broadband operation technicians to streamline the configuration process of ZTE OLT devices. This tool automates the generation of configuration scripts, significantly reducing manual effort and improving efficiency in managing optical network units (ONUs). Whether you're handling single-port setups or large-scale deployments, this tool provides a user-friendly interface and robust features to meet your needs.
+**ZTE OLT PNP Configuration Generator** is a powerful tool designed specifically for broadband operation technicians to streamline the configuration process of ZTE OLT ZTE-C300, C320, C600 devices. This tool automates the generation of configuration scripts, significantly reducing manual effort and improving efficiency in managing optical network units (ONUs). Whether you're handling single-port setups or large-scale deployments, this tool provides a user-friendly interface and robust features to meet your needs.
 
 <img src="https://github.com/miaolink/ZTE_OLT_PNP/blob/main/6.png" alt="登录页" width="800" height="600" title="登录页">
 
